@@ -1,4 +1,4 @@
-# Hi there, I'm Pheap Rothana 👋
+# Hi there, I'm Rothana 👋
 
 ### 🛠 Tech Stack
 <p align="left">
